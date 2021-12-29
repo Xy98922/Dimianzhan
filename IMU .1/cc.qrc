@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backward.png</file>
+        <file>chong.gif</file>
+        <file>cqu.jpg</file>
+        <file>forward.png</file>
+        <file>CAT.gif</file>
+        <file>fliped.gif</file>
+        <file>stop.png</file>
+        <file>xboxControllerBack.png</file>
+        <file>xboxControllerButtonA.png</file>
+        <file>xboxControllerButtonB.png</file>
+        <file>xboxControllerButtonGuide.png</file>
+        <file>xboxControllerButtonX.png</file>
+        <file>xboxControllerButtonY.png</file>
+        <file>xboxControllerDPad.png</file>
+        <file>xboxControllerLeftShoulder.png</file>
+        <file>xboxControllerLeftThumbstick.png</file>
+        <file>xboxControllerLeftTrigger.png</file>
+        <file>xboxControllerRightShoulder.png</file>
+        <file>xboxControllerRightThumbstick.png</file>
+        <file>xboxControllerRightTrigger.png</file>
+        <file>xboxControllerStart.png</file>
+        <file>201223q60jn38ppldljlfn.jpg</file>
+        <file>pngtree-futuristic-design-background-with-hud-ui-image_676643.jpg</file>
+        <file>unnamed.jpg</file>
+        <file>png.png</file>
+        <file>V-124569-5DC2D43A.jpg</file>
+        <file>jpg.jfif</file>
+        <file>digipen-singapore-ms-in-computer-vision-v2.jpg</file>
+        <file>slide_4.png</file>
+        <file>smallrocket.jfif</file>
+        <file>slideleft.png</file>
+        <file>src=http___dingyue.nosdn.127.net_e5UIsvECkZE2Uz9oFXcUsmdHI6I6FqbF=iwuUhOvzrX351477667632430.jpg&amp;refer=http___dingyue.nosdn.127.jfif</file>
+        <file>siri.jpg</file>
+        <file>siri123.png</file>
+        <file>slide_4 new.png</file>
+        <file>siri123black.png</file>
+        <file>siri.gif</file>
+        <file>mask.jpg</file>
+        <file>20191016111900901.png</file>
+        <file>yaoganui.jfif</file>
+        <file>newhandle.png</file>
+        <file>newhandlePS.png</file>
+        <file>swu.png</file>
+        <file>untitled.29.png</file>
+        <file>duijie.jpg</file>
+        <file>untitled.32.png</file>
+    </qresource>
+</RCC>
